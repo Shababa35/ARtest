@@ -6,9 +6,9 @@
         <title>MindAR Example</title>
 
         <!-- Include the MindAR Library -->
-        <script src="./ARtest/mindar-image-three.prod.js"></script>
+        <script src="./mindar-image-three.prod.js"></script>
         <!-- Include the Main JS File -->
-        <script type="module" src="./ARtest/main_mock_webcam_img.js"></script>
+        <script type="module" src="./main_mock_webcam_img.js"></script>
 
         <style>
             html, body {
